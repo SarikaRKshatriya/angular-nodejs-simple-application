@@ -31,6 +31,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -73,7 +74,7 @@
           "configurations": {
             "production": {
               "browserTarget": "new-app:build:production"
-            }
+             }
           }
         },
         "extract-i18n": {
